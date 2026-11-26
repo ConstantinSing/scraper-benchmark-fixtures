@@ -1,0 +1,8 @@
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-1.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-2.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-3.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-4.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-5.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-6.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-7.html
+https://constantinsing.github.io/scraper-benchmark-fixtures/F05/room-8.html

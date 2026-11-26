@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://constantinsing.github.io/scraper-benchmark-fixtures/F05/map.txt

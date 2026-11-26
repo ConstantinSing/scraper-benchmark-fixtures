@@ -8,3 +8,7 @@ address here is fictional. Nothing in this repository is real customer data.
 - `K04/` a right-to-left (Arabic) PDF with bracketed phrases
 - `L03/` a spreadsheet with three sheets (one hidden), merged cells and formulas
 - `W05/` a page whose price changes during the test
+
+Full benchmark (26 Nov 2026): one folder per test case (A04 to X07). Every page and file is made up for the test,
+including the sample business names, prices, phone numbers and addresses. Monitor pages (W01 to W20, R03) switch
+from version 0 to version 1 during the test.

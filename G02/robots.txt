@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /scraper-benchmark-fixtures/G02/private/
+Allow: /scraper-benchmark-fixtures/G02/private/open.html

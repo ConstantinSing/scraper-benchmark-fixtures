@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /scraper-benchmark-fixtures/G01/private/
